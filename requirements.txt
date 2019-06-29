@@ -1,0 +1,2 @@
+# Editable Git install with no remote (src==0.1.0)
+-e /Users/pardeepkumar/Desktop/cookiecut_trail/cookiecut_trail
